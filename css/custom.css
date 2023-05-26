@@ -1,0 +1,233 @@
+@font-face {
+    font-family: 'Circular Std';
+    src: url('../circular-font/CircularStd-Medium.eot');
+    src: url('../circular-font/CircularStd-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../circular-font/CircularStd-Medium.woff2') format('woff2'),
+        url('../circular-font/CircularStd-Medium.woff') format('woff'),
+        url('../circular-font/CircularStd-Medium.ttf') format('truetype'),
+        url('../circular-font/CircularStd-Medium.svg') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+   
+
+    font-family: 'Exo 2', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif;
+
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Circular Std';
+
+}
+
+.header{
+
+}
+
+.heroBanner {
+    position: relative;
+}
+
+    .heroBanner .row {
+        padding: 136px 86px 144px 86px;
+    }
+
+
+.heroBanner h1{
+    font-weight: 900;
+font-size: 65px;
+line-height: 82px;
+display: flex;
+align-items: flex-end;
+color: #176B3A;
+max-width: 700px;
+}
+.heroBanner p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #031F0F;
+    padding-right: 70px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+.heroBannerImage{
+
+}
+
+.heroBgImg {
+    position: absolute;
+    left: 0;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.1;
+}
+
+.subscriptionBox{
+    background-image: url(../images/image02.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 130px;
+    border-radius: 30px;
+ 
+}
+
+.subscriptionBox h2 {
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 55px;
+color: #FFFFFF;
+}
+.subscriptionBox p{
+    font-weight: 400;
+font-size: 14px;
+line-height: 30px;
+color: #FFFFFF;
+}
+
+.subscriptionBox form{
+
+}
+.subscriptionBox form input {
+  
+    padding: 15px;
+    color: #fff;
+}
+
+.subscriptionBox form button{
+    background: #FFFFFF;
+border-radius: 5px;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+color: #176B3A;
+padding: 15px 50px;
+margin-top: 15px;
+}
+
+.howItWorks{
+    padding: 140px 60px 140px 60px;
+
+}
+
+.mobileimage{}
+
+.howItWorks span{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #176B3A;
+}
+
+
+
+.howItWorks h2{
+    font-weight: 900;
+font-size: 50px;
+line-height: 63px;
+text-align: center;
+color: #031F0F;
+margin-bottom: 10px;
+}
+.howItWorks h3{
+    font-weight: 900;
+font-size: 35px;
+line-height: 44px;
+color: #031F0F;
+}
+.howItWorks p{
+    font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+color: #3D3D3D;
+
+}
+
+.textBox{}
+
+.text{
+    font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+color: #3D3D3D;
+
+}
+.howItWorks Button{
+    background: #176B3A;
+border-radius: 5px;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+color: #FFFFFF;
+
+}
+
+
+
+
+.aboutUs{
+    background: #176B3A;
+border-radius: 20px;
+
+
+}
+.aboutSection img{
+    transform: translate(-0px,-85px);
+
+}
+
+.aboutUs h2{
+    font-weight: 900;
+font-size: 50px;
+line-height: 63px;
+color: #FFFFFF;
+}
+
+.aboutUs p{
+    font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+color: #FFFFFF;
+
+}
+
+.footerSection{
+
+}
+
+.footer{
+    padding: 100px 120px 60px 120px;
+
+}
+
+.footer h2 {
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 63px;
+    text-align: center;
+    color: #176B3A;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.footer p{
+    font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+text-align: center;
+color: #3D3D3D;
+
+}
+
+.bottomIMG{}

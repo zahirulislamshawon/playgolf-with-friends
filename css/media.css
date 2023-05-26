@@ -1,0 +1,579 @@
+@media(max-width:1600px){
+    .heroBannerImage{
+        max-width: 290px;
+    }
+
+    .heroBanner h1 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+
+    .heroBannerImage {
+        max-width: 365px;
+    }
+
+    .subscriptionBox p {
+        font-size: 14px;
+        line-height: 28px;
+
+    }
+
+    .aboutUs h2 {
+        font-size: 45px;
+        line-height: 58px;
+        margin-bottom: 10px;
+    }
+    .aboutUs p {
+        font-size: 16px;
+    
+    }
+}
+
+
+@media(max-width:1399px){
+    ul li img {
+        max-width: 130px;
+    }
+
+    .brand{
+        max-width: 100px;
+    }
+
+    .heroBgImg {
+        max-width: 100%;
+    }
+
+    .heroBannerImage {
+        max-width: 230px;
+    }
+
+    .heroBanner h1 {
+        font-size: 45px;
+        line-height: 45px;
+        max-width: 485px;
+    }
+
+    .subscriptionBox h2 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+
+    .subscriptionBox p{
+        font-size: 15px;
+        line-height: 15px;
+    }
+
+    .subscriptionBox {
+        background-size: cover;
+        padding: 72px 109px;
+    }
+
+    .subscriptionBox form input {
+        padding: 10px;
+    }
+    .subscriptionBox form button {
+        padding: 8px 34px;
+        margin-top: 13px;
+    }
+    .subscriptionBox form input {
+        padding: 5px 10px 5px 10px;
+        max-width: 301px;
+        font-size: 15px;
+            background-color: transparent;
+        
+    }
+
+        .howItWorks {
+            padding: 90px 50px 90px 50px;
+        }
+    
+    .howItWorks span {
+
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+
+    .howItWorks h2 {
+        font-size: 45px;
+        line-height: 50px;
+    }
+    .howItWorks p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .mobileimage {
+        max-width: 260px;
+    }
+    .howItWorks h3 {
+        font-weight: 900;
+        font-size: 31px;
+        line-height: 35px;
+        color: #031F0F;
+    }
+
+    .aboutSection img {
+        max-width: 250px;
+    }
+
+    .aboutSection h2 {
+        font-size: 35px;
+        line-height: 45px;
+        margin-bottom: 5px;
+    }
+
+    .aboutUs p {
+        font-size: 11px;
+        line-height: 20px;
+    }
+
+    .footer {
+        padding: 75px 100px 50px 100px;
+    }
+
+    .footer h2 {
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 50px;
+        text-align: center;
+        color: #176B3A;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .footer p {
+        font-size: 15px;
+        line-height: 25px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+
+}
+
+@media(max-width:1199px){
+
+    .heroBanner .row {
+        padding: 50px 86px 50px 86px;
+    }
+
+
+    .heroBannerImage {
+        max-width: 200px;
+    }
+    .heroBanner h1 {
+        font-size: 40px;
+        line-height: 45px;
+        max-width: 425px;
+    }
+
+    .heroBanner p {
+        font-size: 18px;
+        line-height: 30px;
+        margin-bottom: 20px;
+        margin-top: 10px;
+        padding-right: 0px;
+    }
+
+    .subscriptionBox h2 {
+        font-size: 35px;
+        line-height: 46px;
+    }
+    .subscriptionBox p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    .subscriptionBox {
+        padding: 50px 80px;
+    }
+
+    .howItWorks {
+        padding: 50px 90px;
+    }
+    .howItWorks span {
+        font-size: 13px;
+        line-height: 0px;
+    }
+    .howItWorks h2 {
+        font-size: 36px;
+        line-height: 35px;
+    }
+    .mobileimage {
+        max-width: 200px;
+    }
+    .howItWorks h3 {
+        font-weight: 900;
+        font-size: 22px;
+        line-height: 22px;
+        color: #031F0F;
+    }
+    .howItWorks p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .howItWorks Button {
+        font-size: 10px;
+        line-height: 15px;
+    }
+
+    .text{
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .textBox {
+        max-width: 626px;
+        margin: auto;
+    }
+    .howItWorks p {
+        font-size: 10px;
+        line-height: 20px;
+    }
+
+    .aboutSection img {
+        max-width: 200px;
+    }
+
+    .aboutSection img {
+        transform: translate(-0px,-55px);
+    }
+
+    .aboutSection h2 {
+        font-size: 27px;
+        line-height: 34px;
+        margin-bottom: 2px;
+    }
+    .aboutUs p {
+        font-size: 10px;
+        line-height: 18px;
+    }
+
+    .footer {
+        padding: 50px 80px 35px 80px;
+    }
+    .footer h2 {
+        font-size: 34px;
+        line-height: 40px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+
+    .footer p {
+        font-size: 12px;
+        line-height: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .bottom p {
+        font-size: 12px;
+        margin-top: 0;
+        margin-bottom: 1rem;
+    }
+
+}
+
+
+
+@media(max-width:991px){
+
+    .heroBanner .row {
+        padding: 50px 0px ;
+    }
+    .heroBanner h1 {
+        font-size: 35px;
+        line-height: 40px;
+        max-width: 377px;
+    }
+
+    .heroBanner p {
+        font-size: 15px;
+        line-height: 27px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+
+    .subscriptionBox {
+        padding: 30px 60px;
+    }
+    .subscriptionBox h2 {
+        font-size: 30px;
+        line-height: 33px;
+    }
+    .subscriptionBox p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .subscriptionBox form input {
+        padding: 5px 10px 5px 10px;
+        max-width: 235px;
+        font-size: 10px;
+
+    }
+
+    .subscriptionBox form button {
+        padding: 5px 34px;
+        margin-top: 11px;
+        font-size: 10px;
+    }
+
+    .howItWorks {
+        padding: 30px 50px;
+    }
+    .textBox {
+        max-width: 600px;
+
+    }
+
+    .mobileimage {
+        max-width: 150px;
+    }
+    .howItWorks h3 {
+        font-weight: 900;
+        font-size: 18px;
+        line-height: 13px;
+        color: #031F0F;
+    }
+
+    .howItWorks span {
+        font-size: 8px;
+
+    }
+    .ul li img {
+        max-width: 115px;
+    }
+    .aboutSection img {
+        max-width: 200px;
+    }
+
+    .aboutSection img {
+        transform: translate(-0px,-55px);
+    }
+
+    .aboutSection h2 {
+        font-size: 27px;
+        line-height: 34px;
+        margin-bottom: 2px;
+    }
+    .aboutUs p {
+        font-size: 10px;
+        line-height: 18px;
+    }
+
+    .footer {
+        padding: 50px 80px 35px 80px;
+    }
+    .footer h2 {
+        font-size: 34px;
+        line-height: 40px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+
+    .footer p {
+        font-size: 12px;
+        line-height: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .bottom p {
+        font-size: 12px;
+        margin-top: 0;
+        margin-bottom: 1rem;
+    }
+
+}
+
+
+
+
+@media(max-width:767px){
+    .brand {
+        max-width: 85px;
+    }
+
+    .heroBanner .row {
+        padding: 25px 0px;
+    }
+
+    .heroBanner h1 {
+        font-size: 24px;
+        line-height: 28px;
+        max-width: 373px;
+        margin: auto;
+    }
+
+    .heroBanner p {
+        font-size: 15px;
+        line-height: 27px;
+        text-align: center;
+    }
+
+    .heroBannerImage {
+
+        margin-top: 10px;
+    }
+
+    .subscriptionBox {
+        padding: 15px 25px;
+    }
+    .subscriptionBox h2 {
+        font-size: 25px;
+        line-height: 27px;
+    }
+    .subscriptionBox p {
+        font-size: 12px;
+        line-height: 20px;
+        padding-right: 25px;
+    }
+    .subscriptionBox form input {
+        max-width: 300px;
+        font-size: 10px;
+        margin: auto;
+    }
+
+    .howItWorks {
+        padding: 26px 30px;
+    }
+    .howItWorks span {
+        font-size: 10px;
+    }
+    .howItWorks h2 {
+        font-size: 25px;
+        line-height: 15px;
+    }
+    .howItWorks p {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    
+    .howItWorks h3 {
+        font-weight: 900;
+        font-size: 17px;
+        line-height: 12px;
+        color: #031F0F;
+        margin-top: 10px;
+    }
+    .mobileimage {
+        margin-bottom: 40px;
+    }
+
+    .aboutSection img {
+        max-width: 150px;
+    }
+
+    .aboutUs {
+        max-width: 400px;
+    }
+
+    .aboutSection img {
+        transform: translate(-0px,-38px);
+    }
+
+    .aboutSection h2 {
+        font-size: 26px;
+        line-height: 34px;
+        margin-bottom: 2px;
+    }
+
+    .aboutUs p {
+        font-size: 11px;
+        line-height: 14px;
+    }
+
+    .bottomIMG {
+        max-width: 100px;
+    }
+    .footer {
+        padding: 15px 40px 18px 40px;
+    }
+
+    .footer h2 {
+        font-size: 25px;
+        line-height: 32px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+
+    .footer p {
+        font-size: 10px;
+        line-height: 14px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .bottom p {
+        font-size: 10px;
+        margin-top: 0;
+        margin-bottom: 1rem;
+    }
+
+    
+}
+
+
+@media(max-width:575px){
+
+    .heroBanner .row {
+        padding: 15px 0px;
+    }
+
+    .heroBanner h1 {
+        font-size: 39px;
+        line-height: 52px;
+        max-width: 255px;
+        margin: auto;
+    }
+
+    .heroBanner p {
+        font-size: 15px;
+        line-height: 23px;
+        text-align: center;
+    }
+
+    .subscriptionBox {
+        padding: 7px 14px;
+    }
+
+    .subscriptionBox h2 {
+        font-size: 40px;
+        line-height: 43px;
+    }
+
+    .subscriptionBox p {
+        font-size: 12px;
+        line-height: 20px;
+        padding-right: 45px;
+    }
+    .aboutUs {
+        max-width: 274px;
+    }
+    .aboutSection img {
+        transform: translate(-0px,-36px);
+    }
+    .aboutSection h2 {
+        font-size: 28px;
+        line-height: 32px;
+        margin-bottom: 3px;
+    }
+    .aboutUs p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .bottomIMG {
+        max-width: 90px;
+    }
+    .footer h2 {
+        font-size: 21px;
+        line-height: 28px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+        padding: 0px 75px;
+    }
+    .footer p {
+        font-size: 10px;
+        line-height: 16px;
+        padding-left: 75px;
+        padding-right: 75px;
+    }
+}
